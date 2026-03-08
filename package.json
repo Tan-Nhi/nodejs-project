@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-pro",
+  "version": "1.0.0",
+  "description": "nodejs pro tan-nhi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tan-Nhi/nodejs-project.git"
+  },
+  "keywords": [
+    "nodejs",
+    "test"
+  ],
+  "author": {
+    "name": "Tấn Nhi",
+    "url": "rtfolio-tannhi.xyz"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tan-Nhi/nodejs-project/issues"
+  },
+  "homepage": "https://github.com/Tan-Nhi/nodejs-project#readme"
+}
