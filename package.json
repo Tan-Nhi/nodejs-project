@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Tan-Nhi/nodejs-project/issues"
   },
-  "homepage": "https://github.com/Tan-Nhi/nodejs-project#readme"
+  "homepage": "https://github.com/Tan-Nhi/nodejs-project#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
